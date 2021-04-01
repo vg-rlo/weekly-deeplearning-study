@@ -1,8 +1,8 @@
 # **weekly-deeplearning-study**
-nlp와 cv관련된 개념들을 한주씩 정리해가는 스터디
+  * nlp와 cv관련된 개념들을 한주씩 정리해가는 스터디
 ---
 
-## 1. 스터디원 (수민님, 동형님, 혜성님 깃헙 주소 알려주세요!) 
+## 1. 스터디원
 ---
   * [강민정](https://github.com/miinkang)
   * [김이삭](https://github.com/IsaacTips)
@@ -30,4 +30,3 @@ nlp와 cv관련된 개념들을 한주씩 정리해가는 스터디
   * 왜 Git으로 하는지? 실제로 기업에서는 깃헙 주소를 요구하기도 합니다. 블로그도 좋지만 깃헙에 TIL을 남기듯 공부 흔적을 남겨주세요! 
 
 **Commit message 꼭 통일해주세요!!**
-
