@@ -11,7 +11,7 @@ nlp와 cv관련된 개념들을 한주씩 정리해가는 스터디
   * [박은지](https://github.com/guide333)
   * [양창원](https://github.com/Shinest-changwon)
   * [오수민](https://github.com/Acclesia)
-  * [이동형]()
+  * [이동형](https://github.com/abidan-korea)
   * [이혜성](https://github.com/gotjd709)
 
 ## 2. 스터디 기간 및 일정 
