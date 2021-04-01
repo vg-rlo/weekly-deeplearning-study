@@ -21,5 +21,5 @@ nlp와 cv관련된 개념들을 한주씩 정리해가는 스터디
   * Commit message는 [이름] NLP/CV+노드 번호 업데이트 날짜로 한다. 예시) [문성은] NLP+1 0401
 
 
-**Commit message 
+**Commit message 꼭 통일해주세요!!**
 
