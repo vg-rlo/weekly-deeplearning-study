@@ -17,7 +17,7 @@
   * (Going Deeper 주제가 공개되는대로 리스트업하겠습니다.)
 
 ## 3. 스터디 INFO
-  * 주마다 2개 Going deeper node의 NLP/CV 관련 개념/코드를 Markdown/ipynb 형식으로 정리한다.
+  * 주마다 2개 Going deeper node의 NLP/CV 관련 개념/코드를 Markdown/pdf/ipynb 형식으로 정리한다.
   * 정리 문서 파일 형식은 깃허브에서 바로 볼 수 있는 형태로 한다. 
 
 ## 4. Github 사용규칙 (필독!!)
