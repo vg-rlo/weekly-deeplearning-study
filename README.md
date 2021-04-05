@@ -23,14 +23,16 @@
 ## 4. Github 사용규칙 (필독!!)
   * File Name은 `NLP/CV_노드번호_주제_이름이니셜`로 하고 주제 같은 경우 대문자로 문자를 구분한다. 예시) `NLP_1_LanguageModel_MSE` 
   * Commit message는 `[이름] nlp/cv노드번호 본인메세지`로 한다. 예시) `[문성은] nlp1 수정`
-  * Git에 새로운 파일 업로드하는 순서
+  * Issue를 쓸 때는 꼭 해당 게시글 링크를 함께 업로드해주세요.
+  * Git에 새로운 파일 업로드하는 **순서**
   	- git remote -v # remote git 주소 확인 
-  	- git add 해당파일명 # 파일명(File Name) 규칙 확인 
-  	- git commit -m " [이름] nlp/cv노드번호 본인메세지" # Commit message 규칙 확인 
-  	- git push origin master
+  	- **git pull origin master** 
+  	- **git add 해당파일명 # 파일명(File Name) 규칙 확인** 
+  	- **git commit -m " [이름] nlp/cv노드번호 본인메세지" # Commit message 규칙 확인** 
+  	- **git push origin master** 
 
 ## 5. 기타
-  * 왜 Git으로 하는지? 실제로 기업에서는 깃헙 주소를 요구하기도 합니다. 블로그도 좋지만 깃헙에 TIL을 남기듯 공부 흔적을 남겨주세요! 
+  * 왜 Git으로 하는지? 실제로 기업에서는 깃헙 주소를 요구하기도 합니다. 블로그도 좋지만 깃헙에 TIL(Today I learned)을 남기듯 공부 흔적을 남겨주세요! 
 
 **File명 & Commit message 꼭 통일해주세요!!**
 
