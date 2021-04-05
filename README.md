@@ -21,7 +21,7 @@
   * 정리 문서 파일 형식은 깃허브에서 바로 볼 수 있는 형태로 한다. 
 
 ## 4. Github 사용규칙 (필독!!)
-  * File명은 `NLP/CV_노드번호_주제`로 하고 주제 같은 경우 대문자로 문자를 구분한다. 예시) `NLP_1_LanguageModel` 
+  * File Name은 `NLP/CV_노드번호_주제_이름이니셜`로 하고 주제 같은 경우 대문자로 문자를 구분한다. 예시) `NLP_1_LanguageModel_MSE` 
   * Commit message는 `[이름] nlp/cv노드번호 본인메세지`로 한다. 예시) `[문성은] nlp1 수정`
 
 ## 5. 기타
