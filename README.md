@@ -31,7 +31,7 @@
 	- 폴더 하나 생성 후에, 해당 경로에서 터미널 열기를 한다. 
 	- git clone https://github.com/vg-rlo/weekly-deeplearning-study.git
   	- git remote -v # remote git 주소 확인하면 clone 하면 git init, git pull, git add remote 패쓰! 
-  	- git add remote remote명 본인repo의 git주소 # fork해온 repo의 git주소에 대한 remote도 생성한다. remote명은 기본이 origin이므로 다른 걸로 아무거나 지어준다.  
+  	- git remote add remote명 본인repo의 git주소 # fork해온 repo의 git주소에 대한 remote도 생성한다. remote명은 기본이 origin이므로 다른 걸로 아무거나 지어준다.  
 
   * Fork해온 repo에 pull request하는 법(= 새로운 파일 contribute하기) 
   	- **git pull origin master** # 항상 맨처음에 pull을 해줘서 최신 상태로 업데이트를 해줘야 충돌에러X
