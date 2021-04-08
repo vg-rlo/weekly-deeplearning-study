@@ -29,8 +29,8 @@
   * Fork해올 때 기본적으로 해줘야할 초기 세팅 절차 
 	- 자신의 git으로 fork해간다. 
 	- 폴더 하나 생성 후에, 해당 경로에서 터미널 열기를 한다. 
-	- git clone https://github.com/vg-rlo/weekly-deeplearning-study.git
-  	- git remote -v # remote git 주소 확인하면 clone 하면 git init, git pull, git add remote 패쓰! 
+	- git clone https://github.com/vg-rlo/weekly-deeplearning-study.git # clone 하면 git init, git pull, git add remote 패쓰! 
+  	- git remote -v # remote git 주소 확인  
   	- git remote add remote명 본인repo의 git주소 # fork해온 repo의 git주소에 대한 remote도 생성한다. remote명은 기본이 origin이므로 다른 걸로 아무거나 지어준다.  
 
   * Fork해온 repo에 pull request하는 법(= 새로운 파일 contribute하기) 
